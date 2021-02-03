@@ -9,7 +9,7 @@ import ModelY from './assets/Desktop-ModelY.jpeg'
 import SolarPanels from './assets/Desktop-SolarPanels.jpeg'
 import SolarRoof from './assets/Desktop-SolarRoof.jpeg'
 
-function App() {
+function App() {                               //checking changes for github
   return (
     <div className="App">
       <Header />
